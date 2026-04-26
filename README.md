@@ -27,7 +27,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ### 💻 Current Expertise
 
 * .NET Core, C#, ASP.NET, Web APIs
